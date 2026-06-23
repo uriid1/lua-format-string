@@ -16,6 +16,6 @@ end
 
 Variables are resolved from the current lexical scope, and nested table fields can be accessed using dot notation.
 
-Alternatives:
+## Alternatives
   * [fstring via gsub](https://gist.github.com/uriid1/2b7823c096b3a697ceab7f40b4ccc54b)
   * [fdiv via mt](https://gist.github.com/uriid1/57356bf8618d78587f2f8515d8b2ab0f)
